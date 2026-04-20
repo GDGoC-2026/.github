@@ -26,7 +26,7 @@ This organization hosts the two core components of our platform:
 
 The powerhouse of the platform, handling complex AI workflows and data persistence.
 
-  * **Stack:** Python (FastAPI), PostgreSQL, Redis, Neo4j.
+  * **Stack:** Python (FastAPI), PostgreSQL, Redis, Neo4j, Milvus.
   * **Key Features:** Orchestrated AI Agents, Graph RAG implementation, Spaced Repetition (FSRS) service, and Celery-based task processing.
 
 ### 🔹 [**Frontend**](https://github.com/GDGoC-2026/Frontend)
