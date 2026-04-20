@@ -1,6 +1,6 @@
-# **Team USUTVKU | GDGOC Hackathon 2026**
+# **Team USUTVKU | GDGoC Hackathon 2026**
 
-Welcome to the official GitHub organization for **Team USUTVKU**. We are a group of passionate students from VNU-HCMUS, HCMUT, and VKU, working together to redefine the digital learning experience for the **GDGOC Hackathon 2026**.
+Welcome to the official GitHub organization for **Team USUTVKU**. We are a group of passionate students from VNU-HCMUS, HCMUT, and VKU, working together to redefine the digital learning experience for the **GDGoC Hackathon 2026**.
 
 -----
 
