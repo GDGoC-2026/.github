@@ -22,14 +22,14 @@ Our project is a **Customizable Duolingo-style Learning Platform** designed to s
 
 This organization hosts the two core components of our platform:
 
-### 🔹 [**Backend**](https://www.google.com/search?q=https://github.com/usutvku/backend)
+### 🔹 [**Backend**](https://github.com/GDGoC-2026/Backend)
 
 The powerhouse of the platform, handling complex AI workflows and data persistence.
 
   * **Stack:** Python (FastAPI), PostgreSQL, Redis, Neo4j.
   * **Key Features:** Orchestrated AI Agents, Graph RAG implementation, Spaced Repetition (FSRS) service, and Celery-based task processing.
 
-### 🔹 [**Frontend**](https://www.google.com/search?q=https://github.com/usutvku/frontend)
+### 🔹 [**Frontend**](https://github.com/GDGoC-2026/Frontend)
 
 A high-performance, interactive interface built for a seamless user experience.
 
@@ -42,10 +42,10 @@ A high-performance, interactive interface built for a seamless user experience.
 
 | Name | Role / Institution |
 | :--- | :--- |
-| **Tran Thien Phuc** | Technical Lead & Full-stack Developer (VNU-HCMUS) |
-| **Bui Minh Quan** | Backend & AI Specialist (HCMUT) |
-| **Tu Thang Phat** | Frontend & UI/UX Developer (VKU) |
-| **Dang Hoang Sa** | Frontend & UI/UX Developer (VKU) |
+| **[Tran Thien Phuc](https://github.com/Tnina2612)** | Technical Lead & Full-stack Developer (VNU-HCMUS) |
+| **[Bui Minh Quan](https://github.com/waanney)** | Backend & AI Specialist (HCMUT) |
+| **[Tu Thang Phat](https://github.com/phatdev12)** | Frontend & UI/UX Developer (VKU) |
+| **[Dang Hoang Sa](https://github.com/sakaka1234)** | Frontend & UI/UX Developer (VKU) |
 
 -----
 
